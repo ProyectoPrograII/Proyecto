@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  * @author Valery
- */
+ */PRUEBA TEXTO
 public class ConexionSQL {
    
     public static Connection getConexion(){
